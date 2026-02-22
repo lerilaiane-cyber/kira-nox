@@ -39,7 +39,7 @@ const steps = [
   },
 ]
 
-function StepCard({ step, index }) {
+function StepCard({ step }) {
   const cardRef = useRef(null)
   const [isVisible, setIsVisible] = useState(false)
 
