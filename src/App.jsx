@@ -4,6 +4,7 @@ import Marquee from './components/Marquee'
 import About from './components/About'
 import Works from './components/Works'
 import Process from './components/Process'
+import Testimonials from './components/Testimonials'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Works />
       <Process />
+      <Testimonials />
     </main>
   )
 }
