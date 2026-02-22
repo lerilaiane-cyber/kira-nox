@@ -6,10 +6,12 @@ import Works from './components/Works'
 import Process from './components/Process'
 import Testimonials from './components/Testimonials'
 import Contact from './components/Contact'
+import LoadingScreen from './components/LoadingScreen'
 
 function App() {
   return (
     <main className="bg-kira-bg min-h-screen">
+      <LoadingScreen />
       <Navbar />
       <Hero />
       <Marquee />
