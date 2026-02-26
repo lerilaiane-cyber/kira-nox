@@ -231,6 +231,7 @@ Apaixonada por tecnologia, design e front-end criativo 🎨
 
 Desenvolvido com 💜 e muita criatividade por Erika Laiane
 
+TESTANDO PULL REQUEST =)
 **#FrontEnd** | **#ReactJS** | **#TailwindCSS** | **#Design**
 
 [⬆ Voltar ao topo](#kira-nox--sound-producer-portfolio)
